@@ -65,13 +65,13 @@ h3 {
 	margin-top:100px;
 	position:relative;
 	opacity:1;
-	padding:4px;
+	padding:10px;
 	-webkit-transition:0.5s;
 	transition:0.5s;
 	z-index:1;
 	margin-left:0px;
 	opacity:1;
-	padding-top:0px;
+	padding-top:10px;
 	background-color:#eee;
 }
 
