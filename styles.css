@@ -9,7 +9,7 @@ body {
 
 h1 {
 	font-family:'Montserrat', sans-serif;
-	font-size:15px;
+	font-size:13px;
 	width:150px;
 	text-transform:uppercase;
 	margin-top:0px;
@@ -27,7 +27,7 @@ h1 {
 
 h2 {
 	font-family:'Montserrat', sans-serif;
-	font-size:15px;
+	font-size:12px;
 	width:150px;
 	text-transform:uppercase;
 	margin-top:0px;
@@ -44,7 +44,7 @@ h2 {
 
 h3 {
 	font-family:'Montserrat', sans-serif;
-	font-size:15px;
+	font-size:12px;
 	width:150px;
 	text-transform:uppercase;
 	margin-top:-10px;
@@ -80,7 +80,7 @@ h6 {
 	text-shadow: 1px 0px 0px #fff;
 	text-align: center;
 	font-family:'Montserrat', sans-serif;
-	font-size:30px;
+	font-size:20px;
 	width:281px;
 	padding:10px;
 	background-color: #456040;
@@ -106,7 +106,7 @@ h6 {
 .baby {
 	width:298.33px;
 	height:298.33px;
-	margin-top:-54px;
+	margin-top:-40px;
 	position:relative;
 	opacity:1;
 	padding:10px;
