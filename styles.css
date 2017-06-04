@@ -34,7 +34,7 @@ h2 {
 	color:#456040;
 	background-color:#ccc;
 	padding:10px;
-	margin-bottom:0px;
+	margin-bottom:-1px;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	text-align: center;
@@ -125,7 +125,7 @@ h6 {
 	overflow:auto;
 	font-size:11px;
 	width:276px;
-	margin-top:10px;
+	margin-top:15px;
 }
 
 table {
