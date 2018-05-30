@@ -1,2 +1,2 @@
 # olympian
-cvhsOlympian Staff Page.
+Olympian Staff Page.
